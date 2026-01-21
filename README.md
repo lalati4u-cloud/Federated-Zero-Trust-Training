@@ -16,3 +16,14 @@ These YAML files document the parameters used in the paper, including:
 - Training method (FedAvg / FZTT)  
 - Trust parameters  
 - Attack setup  
+
+If you use this repository in your research, please cite the code as follows:
+
+```bibtex
+@software{FZTT_code,
+  author  = {Al-Terkawi, Laila},
+  title   = {Federated Zero-Trust Training (FZTT) -- Reference Implementation},
+  year    = {2026},
+  url     = {https://github.com/<your-username>/<your-repo>},
+  note    = {MIT License}
+}
